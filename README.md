@@ -11,3 +11,5 @@ To embed (output file name is o.png)
 To extract 
 
 `./extract steganography-file`
+
+Compiled and run on os x
