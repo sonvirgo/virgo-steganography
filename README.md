@@ -13,3 +13,5 @@ To extract
 `./extract steganography-file`
 
 Compiled and run on os x
+
+Most beautiful ratio image/binary 3M Byte/ 64 KByte
