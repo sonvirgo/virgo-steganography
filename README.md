@@ -12,7 +12,7 @@ To extract
 
 `./extract steganography-file`
 
-Compiled and run on os x and ubuntu
+Compiled and run on os x, ubuntu and windows
 
 Most beautiful ratio image/binary 3M Byte/ 64 KByte
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=U--p5WoZ1mU" target="_blank"><img src="http://img.youtube.com/vi/U--p5WoZ1mU/0.jpg" 
