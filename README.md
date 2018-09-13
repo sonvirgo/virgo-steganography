@@ -2,7 +2,7 @@
 
 Hidding any binary flle < 64k in image
 
-Require opencv
+Require opencv on ubuntu and osx
 
 To embed (output file name is o.png)
 
