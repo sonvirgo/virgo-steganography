@@ -2,7 +2,7 @@
 
 Hidding any binary flle < 64k in image
 
-Require opencv on ubuntu, android and osx
+Require opencv on ubuntu, android and osx (OpenCV Manager 3.0)
 
 To embed (output file name is o.png)
 
