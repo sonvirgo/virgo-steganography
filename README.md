@@ -1,6 +1,6 @@
 # virgo-steganography
 
-[![Github All Releases](https://img.shields.io/github/downloads/virgo-steganography/virgo-steganography/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/virgo-steganography/total.svg)]()
 
 Hidding any binary flle < 64k in image
 
