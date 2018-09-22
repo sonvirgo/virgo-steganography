@@ -1,5 +1,7 @@
 # virgo-steganography
 
+[![Github All Releases](https://img.shields.io/github/downloads/virgo-steganography/virgo-steganography/total.svg)]()
+
 Hidding any binary flle < 64k in image
 
 Require opencv on ubuntu, android and osx (OpenCV Manager 3.0) Nougat armeabi 
